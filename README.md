@@ -4,16 +4,6 @@ Installers for the **myUpgrade Publisher** desktop app, which publishes a presen
 
 This repository holds **releases only**: no source code.
 
-**How to install and use it:** <https://interpreter.myupgrade.kz/desktop>
+## Download
 
-## Downloads (latest release)
-
-| System | File |
-|---|---|
-| Windows | [myUpgrade-Publisher-Setup.exe](https://github.com/khnur/myupgrade-publisher/releases/latest/download/myUpgrade-Publisher-Setup.exe) |
-| macOS | [myUpgrade-Publisher.dmg](https://github.com/khnur/myupgrade-publisher/releases/latest/download/myUpgrade-Publisher.dmg) |
-| Linux (.deb) | [myupgrade-publisher_amd64.deb](https://github.com/khnur/myupgrade-publisher/releases/latest/download/myupgrade-publisher_amd64.deb) |
-
-The app is **not digitally signed** yet, so your system warns about it once:
-- **Windows:** at "Windows protected your PC", click **More info**, then **Run anyway**.
-- **macOS:** after the first attempt to open it, go to System Settings › Privacy & Security and click **Open Anyway**.
+**Download it from <https://interpreter.myupgrade.kz/desktop>.** That page explains what the app does and asks for your agreement first. The organiser can switch this computer's microphone on and off while it is on their list, and the app starts when you log in. The page also gives short instructions for installing and using it.
